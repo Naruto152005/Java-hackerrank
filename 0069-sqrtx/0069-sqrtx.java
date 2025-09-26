@@ -3,7 +3,7 @@ class Solution {
          int s=0;
          int l=x;
          int ans=0;
-         if (x==0||x==1)
+         if (x<2)
          return x;
          while(s<=l)
          {
