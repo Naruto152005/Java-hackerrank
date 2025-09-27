@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Naruto152005/Java-hackerrank/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Naruto152005/Java-hackerrank/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Naruto152005/Java-hackerrank/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0258-add-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Naruto152005/Java-hackerrank/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Naruto152005/Java-hackerrank/tree/master/0342-power-of-four) |
 ## Array
 |  |
