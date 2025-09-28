@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(nums);
         int n=nums.length;
         int a,b,c;
-        for(int i=n-1;i>=2;i--)
+        for(int i=n-1;i>=2;i--)// i>=2 for avoding array out of bound;;
         {
             c=nums[i];
             a=nums[i-1];
