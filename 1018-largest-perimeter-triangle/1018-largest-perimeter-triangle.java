@@ -19,7 +19,7 @@ class Solution {
 
 /*
     🔹 Example
-
+" LOGIC BEHIND THE i>=2 "
 Suppose n = 5. Valid indices = 0,1,2,3,4.
 
 Start with i = 4 → sides = [nums[2], nums[3], nums[4]] ✅
