@@ -8,8 +8,9 @@ class Solution {
             c=nums[i];
             a=nums[i-1];
             b=nums[i-2];
-            if((a+b)>c)
+            if((a+b)>c){
             return a+b+c;
+            }
         }
         return 0;
     }
