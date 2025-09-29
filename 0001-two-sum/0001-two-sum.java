@@ -8,7 +8,7 @@ class Solution {
             {
                 return new int[]{map.get(needed),i};
             }
-            map.put(nums[i],i);
+            map.put(nums[i],i);// initailly our hashmap is empty that why we have to put element like this like map.put(nums[i]-->2,index-->1)
         }
         return new int[]{-1,-1};
     }
