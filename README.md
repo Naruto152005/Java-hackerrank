@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
 | [1677-matrix-diagonal-sum](https://github.com/Naruto152005/Java-hackerrank/tree/master/1677-matrix-diagonal-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Naruto152005/Java-hackerrank/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
 |  |
 | ------- |
