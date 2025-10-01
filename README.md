@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Naruto152005/Java-hackerrank/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2324-find-triangular-sum-of-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
