@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Naruto152005/Java-hackerrank/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/Naruto152005/Java-hackerrank/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2324-find-triangular-sum-of-an-array) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/Naruto152005/Java-hackerrank/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |
