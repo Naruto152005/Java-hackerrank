@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naruto152005/Java-hackerrank/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Naruto152005/Java-hackerrank/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naruto152005/Java-hackerrank/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naruto152005/Java-hackerrank/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Naruto152005/Java-hackerrank/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Naruto152005/Java-hackerrank/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0191-number-of-1-bits) |
 ## Counting Sort
 |  |
