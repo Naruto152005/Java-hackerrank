@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Naruto152005/Java-hackerrank/tree/master/0166-fraction-to-recurring-decimal) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Naruto152005/Java-hackerrank/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naruto152005/Java-hackerrank/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Naruto152005/Java-hackerrank/tree/master/1642-water-bottles) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Naruto152005/Java-hackerrank/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/3336-water-bottles-ii) |
 ## Number Theory
