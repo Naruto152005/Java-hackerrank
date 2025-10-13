@@ -9,7 +9,7 @@ class Solution {
         String s1=new String(chars);
         String s2=new String(ts);
 
-        if(s1.length()<t.length()||s1.length()>t.length())
+        if(s1.length()!=t.length())
         return false;
     
         if(s1.contains(s2))
