@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naruto152005/Java-hackerrank/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Naruto152005/Java-hackerrank/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Naruto152005/Java-hackerrank/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naruto152005/Java-hackerrank/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0191-number-of-1-bits) |
 ## Counting Sort
@@ -148,5 +150,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naruto152005/Java-hackerrank/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
