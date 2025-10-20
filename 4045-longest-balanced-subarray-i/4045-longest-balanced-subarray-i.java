@@ -1,4 +1,4 @@
-// this is my 100 question on leetcode
+// this is my 100th question on leetcode
 class Solution {
     public int longestBalanced(int[] nums) {
         int n=nums.length;
