@@ -19,6 +19,7 @@ class Solution {
         // }
 // my code;
         // return X;
+    //---------------------------------------------------------//
          int X = 0;  // start with X = 0
         
         for (String op : operations) {
