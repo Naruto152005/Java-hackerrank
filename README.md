@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Naruto152005/Java-hackerrank/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Naruto152005/Java-hackerrank/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Naruto152005/Java-hackerrank/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Naruto152005/Java-hackerrank/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Naruto152005/Java-hackerrank/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Naruto152005/Java-hackerrank/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Naruto152005/Java-hackerrank/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -174,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naruto152005/Java-hackerrank/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Naruto152005/Java-hackerrank/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Naruto152005/Java-hackerrank/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
