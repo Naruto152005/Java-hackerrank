@@ -3,21 +3,13 @@ class Solution {
         int n=nums.length;
         HashMap<Integer,Integer>freq=new HashMap<>();
         int curr=0;
-
+        int maxval=0;
         for(int i=0;i<n;i++)
         {
             curr=nums[i];
-            if(freq.containsKey(curr))
-            freq.put(curr,freq.get(curr)+1);
-            else
-            freq.put(curr,1);
-        }
-
-        int maxval=0;
-        for(int val:freq.values())
-        {
-            if(val>maxval)
-            maxval=val;
+            freq.put(curr,freq.getOrDefault(curr,0)+1);
+            maxval=Math.max(maxval,freq.get(curr));
+           
         }
 
         int total=0;
