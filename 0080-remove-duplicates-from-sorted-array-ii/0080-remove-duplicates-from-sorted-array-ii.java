@@ -4,11 +4,9 @@ class Solution {
 
             for (int i = 2; i < nums.length; i++) {
                 if (nums[i] != nums[k - 2]) {
-                    nums[k] = nums[i];
-                    k++;
+                    nums[k++] = nums[i];
                 }
             }
-
             return k;
         }
-    }
+}
