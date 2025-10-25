@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Naruto152005/Java-hackerrank/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Naruto152005/Java-hackerrank/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Naruto152005/Java-hackerrank/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2551-apply-operations-to-an-array) |
