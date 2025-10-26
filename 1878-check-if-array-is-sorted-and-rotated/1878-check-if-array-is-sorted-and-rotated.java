@@ -3,7 +3,7 @@ class Solution {
         int count = 0;
         int n = nums.length;
         
-        for (int i = 0; i < nums.length; i++) {
+        for (int i = 0; i < n; i++) {
             // If any element is greater than the next one, it's a rotation point
             if (nums[i] > nums[(i + 1) % n]) {
                 count++;
@@ -13,4 +13,4 @@ class Solution {
         }
         return true;
     }
-}
+    }
