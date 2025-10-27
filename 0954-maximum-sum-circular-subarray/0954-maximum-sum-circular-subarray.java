@@ -1,7 +1,7 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
         int n=nums.length;
-            int sum=0;
+            int sum=nums[0];
             int re=0;
 
             int min=nums[0];
@@ -15,10 +15,7 @@ class Solution {
 
                min=Math.min(min+nums[i],nums[i]);
                minkade=Math.min(min,minkade);
-            }
-
-            for (int i = 0; i <n; i++) {
-                sum+=nums[i];
+               sum+=nums[i];
             }
 
             if(maxkade<0)
