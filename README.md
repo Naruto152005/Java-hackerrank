@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0191-number-of-1-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting Sort
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naruto152005/Java-hackerrank/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Naruto152005/Java-hackerrank/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
