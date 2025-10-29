@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Naruto152005/Java-hackerrank/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Naruto152005/Java-hackerrank/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Naruto152005/Java-hackerrank/tree/master/0342-power-of-four) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
