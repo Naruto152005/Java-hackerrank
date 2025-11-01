@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Naruto152005/Java-hackerrank/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Naruto152005/Java-hackerrank/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Naruto152005/Java-hackerrank/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Naruto152005/Java-hackerrank/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Naruto152005/Java-hackerrank/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Naruto152005/Java-hackerrank/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Naruto152005/Java-hackerrank/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Naruto152005/Java-hackerrank/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Naruto152005/Java-hackerrank/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Naruto152005/Java-hackerrank/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Naruto152005/Java-hackerrank/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Naruto152005/Java-hackerrank/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Naruto152005/Java-hackerrank/tree/master/1642-water-bottles) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Naruto152005/Java-hackerrank/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Naruto152005/Java-hackerrank/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Naruto152005/Java-hackerrank/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Naruto152005/Java-hackerrank/tree/master/0342-power-of-four) |
