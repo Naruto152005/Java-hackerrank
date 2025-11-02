@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Naruto152005/Java-hackerrank/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Naruto152005/Java-hackerrank/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naruto152005/Java-hackerrank/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Naruto152005/Java-hackerrank/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Naruto152005/Java-hackerrank/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Naruto152005/Java-hackerrank/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Naruto152005/Java-hackerrank/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Naruto152005/Java-hackerrank/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Naruto152005/Java-hackerrank/tree/master/0342-power-of-four) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Naruto152005/Java-hackerrank/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Naruto152005/Java-hackerrank/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naruto152005/Java-hackerrank/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Naruto152005/Java-hackerrank/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Naruto152005/Java-hackerrank/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -142,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Naruto152005/Java-hackerrank/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
