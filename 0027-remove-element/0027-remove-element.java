@@ -7,9 +7,9 @@ class Solution {
         for(int i=0;i<n;i++)
         {
             if(nums[i]!=val) {
-                nums[j] = nums[i];
-                j++;
-                count++;
+                nums[j] = nums[i];// swap if the condtion is satify
+                j++;// j++ to move to next index for insert elemetn(2 pointer approch);
+                count++;// number of unique element in array;
             }
 
         }
