@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Naruto152005/Java-hackerrank/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0387-first-unique-character-in-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naruto152005/Java-hackerrank/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Naruto152005/Java-hackerrank/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Naruto152005/Java-hackerrank/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Naruto152005/Java-hackerrank/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Naruto152005/Java-hackerrank/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naruto152005/Java-hackerrank/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naruto152005/Java-hackerrank/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
