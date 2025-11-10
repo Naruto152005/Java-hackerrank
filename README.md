@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0387-first-unique-character-in-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/Naruto152005/Java-hackerrank/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naruto152005/Java-hackerrank/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naruto152005/Java-hackerrank/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Naruto152005/Java-hackerrank/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Naruto152005/Java-hackerrank/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2427-first-letter-to-appear-twice](https://github.com/Naruto152005/Java-hackerrank/tree/master/2427-first-letter-to-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naruto152005/Java-hackerrank/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Naruto152005/Java-hackerrank/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Naruto152005/Java-hackerrank/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naruto152005/Java-hackerrank/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Naruto152005/Java-hackerrank/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Naruto152005/Java-hackerrank/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Naruto152005/Java-hackerrank/tree/master/0342-power-of-four) |
+| [2427-first-letter-to-appear-twice](https://github.com/Naruto152005/Java-hackerrank/tree/master/2427-first-letter-to-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
