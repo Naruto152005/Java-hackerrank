@@ -19,7 +19,7 @@ class Solution {
                 x--;
             }
         }
-        System.gc();
+        
         return ans;
     }
 }
