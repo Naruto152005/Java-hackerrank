@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Naruto152005/Java-hackerrank/tree/master/1677-matrix-diagonal-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Naruto152005/Java-hackerrank/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Naruto152005/Java-hackerrank/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Naruto152005/Java-hackerrank/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2551-apply-operations-to-an-array) |
 ## String Matching
