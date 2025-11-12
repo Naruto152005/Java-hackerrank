@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1580-shuffle-the-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Naruto152005/Java-hackerrank/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Naruto152005/Java-hackerrank/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2058-concatenation-of-array) |
