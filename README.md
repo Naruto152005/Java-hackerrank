@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Naruto152005/Java-hackerrank/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Naruto152005/Java-hackerrank/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
