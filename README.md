@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Naruto152005/Java-hackerrank/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/Naruto152005/Java-hackerrank/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Naruto152005/Java-hackerrank/tree/master/2427-first-letter-to-appear-twice) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Naruto152005/Java-hackerrank/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Naruto152005/Java-hackerrank/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Naruto152005/Java-hackerrank/tree/master/0645-set-mismatch) |
 | [2427-first-letter-to-appear-twice](https://github.com/Naruto152005/Java-hackerrank/tree/master/2427-first-letter-to-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Naruto152005/Java-hackerrank/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Naruto152005/Java-hackerrank/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Naruto152005/Java-hackerrank/tree/master/0645-set-mismatch) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Naruto152005/Java-hackerrank/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Naruto152005/Java-hackerrank/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
