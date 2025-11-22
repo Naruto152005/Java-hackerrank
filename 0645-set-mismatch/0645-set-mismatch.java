@@ -1,25 +1,23 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        HashMap<Integer,Integer>map=new HashMap<>();
-
+        int dup=-1;
+        int miss=-1;
         for(int num:nums)
         {
-            map.put(num,map.getOrDefault(num,0)+1);
+            int index=Math.abs(num)-1;
+            
+            if(nums[index]<0)
+                dup=Math.abs(num);
+            else 
+                nums[index]*=-1;
         }
-        int duplicate=-1;
-        int missing=-1;
 
-        for(int i=0;i<=nums.length;i++)
+        for(int i=0;i<nums.length;i++)
         {
-            int count=map.getOrDefault(i,0);
-
-            if(count==2)
-                duplicate=i;
-            if(count==0)
-            missing=i;
+            if(nums[i]>0)
+            miss=i+1;
         }
 
-        return new int[]{duplicate,missing};
-
+        return new int[]{dup,miss};
     }
 }
