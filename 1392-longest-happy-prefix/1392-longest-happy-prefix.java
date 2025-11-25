@@ -19,7 +19,7 @@ class Solution {
                 }
                 else
                 {
-                    lsp[0]=0;
+                    lsp[i]=0;
                     i++;
                 }
             }
