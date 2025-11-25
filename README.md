@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Naruto152005/Java-hackerrank/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Naruto152005/Java-hackerrank/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/Naruto152005/Java-hackerrank/tree/master/2427-first-letter-to-appear-twice) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -261,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
