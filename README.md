@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Naruto152005/Java-hackerrank/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Naruto152005/Java-hackerrank/tree/master/0166-fraction-to-recurring-decimal) |
+| [0214-shortest-palindrome](https://github.com/Naruto152005/Java-hackerrank/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Naruto152005/Java-hackerrank/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Naruto152005/Java-hackerrank/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Naruto152005/Java-hackerrank/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Naruto152005/Java-hackerrank/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
@@ -270,9 +272,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Naruto152005/Java-hackerrank/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Naruto152005/Java-hackerrank/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
