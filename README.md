@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Naruto152005/Java-hackerrank/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Naruto152005/Java-hackerrank/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0796-rotate-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Naruto152005/Java-hackerrank/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Naruto152005/Java-hackerrank/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Naruto152005/Java-hackerrank/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Naruto152005/Java-hackerrank/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
 ## Combinatorics
 |  |
