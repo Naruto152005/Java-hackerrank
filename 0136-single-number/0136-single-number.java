@@ -19,6 +19,7 @@ class Solution {
         {
             rem=rem^nums[i];   
         }
+         System.gc();
         return rem;
     }
 }
