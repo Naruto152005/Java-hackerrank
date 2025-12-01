@@ -50,6 +50,7 @@ class Solution {
         if (max3==Long.MIN_VALUE){
             return max;
         }
+        System.gc();
         return (int) max3;
 }
 }
