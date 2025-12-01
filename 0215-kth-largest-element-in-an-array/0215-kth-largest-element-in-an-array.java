@@ -8,6 +8,7 @@ class Solution {
             if(minheap.size()>k)
                 minheap.poll();
         }
+        System.gc();
         return minheap.peek();
     }
 }
