@@ -9,7 +9,9 @@ class Solution {
 
         if(num%2==0)
         return helper(num/2,steps+1);
-        else
+        else{
+        System.gc();
         return helper(num-1,steps+1);
+        }
     }
 }
