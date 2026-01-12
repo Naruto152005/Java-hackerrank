@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Naruto152005/Java-hackerrank/tree/master/0796-rotate-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-longest-happy-prefix](https://github.com/Naruto152005/Java-hackerrank/tree/master/1392-longest-happy-prefix) |
+| [1768-merge-strings-alternately](https://github.com/Naruto152005/Java-hackerrank/tree/master/1768-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Naruto152005/Java-hackerrank/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Naruto152005/Java-hackerrank/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/Naruto152005/Java-hackerrank/tree/master/2427-first-letter-to-appear-twice) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0922-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Naruto152005/Java-hackerrank/tree/master/1768-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Naruto152005/Java-hackerrank/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/2551-apply-operations-to-an-array) |
 ## String Matching
