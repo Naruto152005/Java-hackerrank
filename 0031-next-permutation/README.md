@@ -38,6 +38,8 @@
 <strong>Output:</strong> [1,5,1]
 </pre>
 
+<p> quick notes of this is <p>
+	<link>https://docs.google.com/document/d/1prbEq3WzVzsA9og783ZwOgOyl1GAc7919_fmaIlhQ98/edit?usp=drive_link<link>
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
