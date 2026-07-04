@@ -8,7 +8,22 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<p> pseudocode for this problem or approch(use binary search approch </p>
+<pre>
+	 while(i<j)
+        {
+            int sum=numbers[i]+numbers[j];
+            if(sum==target)
+            return new int[]{i+1,j+1};
+            else if(sum>=target)
+            {
+                j--;
+            }
+            else{
+                i++;
+            }
+        }
+</pre>
 <pre>
 <strong>Input:</strong> numbers = [<u>2</u>,<u>7</u>,11,15], target = 9
 <strong>Output:</strong> [1,2]
