@@ -10,19 +10,19 @@
 <p><strong class="example">Example 1:</strong></p>
 <p> pseudocode for this problem or approch(use binary search approch </p>
 <ul>
-	 while(i<j)
-        {
-            int sum=numbers[i]+numbers[j];
-            if(sum==target)
-            return new int[]{i+1,j+1};
-            else if(sum>=target)
-            {
-                j--;
-            }
-            else{
-                i++;
-            }
-        }
+	<li> while(i<j) </li>
+      <li>   {
+         <li>    int sum=numbers[i]+numbers[j];</li>
+          <li>   if(sum==target)</li>
+          <li>   return new int[]{i+1,j+1};</li>
+           <li>  else if(sum>=target)</li>
+           <li>  {</li>
+            <li>     j--;</li>
+           <li>  }</li>
+           <li>  else{</li>
+           <li>      i++;</li>
+          <li>   }</li>
+     <li>    }</li>
 	 </ul>
 <pre>
 <strong>Input:</strong> numbers = [<u>2</u>,<u>7</u>,11,15], target = 9
