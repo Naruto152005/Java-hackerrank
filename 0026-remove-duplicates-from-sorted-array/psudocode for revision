@@ -1,0 +1,7 @@
+ if(nums[i]!=nums[j-1])
+            {
+                nums[j]=nums[i];
+                j++;
+            }
+        }
+  // the anwer is j so   return j;
