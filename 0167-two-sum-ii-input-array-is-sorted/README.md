@@ -9,7 +9,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <p> pseudocode for this problem or approch(use binary search approch </p>
-<pre>
+<ul>
 	 while(i<j)
         {
             int sum=numbers[i]+numbers[j];
@@ -23,7 +23,7 @@
                 i++;
             }
         }
-</pre>
+	 </ul>
 <pre>
 <strong>Input:</strong> numbers = [<u>2</u>,<u>7</u>,11,15], target = 9
 <strong>Output:</strong> [1,2]
