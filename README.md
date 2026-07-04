@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Naruto152005/Java-hackerrank/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0922-sort-array-by-parity-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Naruto152005/Java-hackerrank/tree/master/0954-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Naruto152005/Java-hackerrank/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Naruto152005/Java-hackerrank/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Naruto152005/Java-hackerrank/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Naruto152005/Java-hackerrank/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Naruto152005/Java-hackerrank/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Naruto152005/Java-hackerrank/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/Naruto152005/Java-hackerrank/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Naruto152005/Java-hackerrank/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Naruto152005/Java-hackerrank/tree/master/1768-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Naruto152005/Java-hackerrank/tree/master/2392-successful-pairs-of-spells-and-potions) |
