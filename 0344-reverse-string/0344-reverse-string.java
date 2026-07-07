@@ -1,7 +1,7 @@
 class Solution {
     public void reverseString(char[] s) {
         int n=s.length;
-        char i=0;
+        int i=0;
         int j=n-1;
         for(int k=0;k<n/2;k++)
         {
